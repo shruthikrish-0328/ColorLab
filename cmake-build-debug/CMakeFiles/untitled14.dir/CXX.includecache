@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shruthikrishnapuram/CLionProjects/untitled14/Color.h
+fstream
+-
+iostream
+-
+string
+-
+cstdlib
+-
+iomanip
+-
+map
+-
+string
+-
+vector
+-
+
+/Users/shruthikrishnapuram/CLionProjects/untitled14/main.cpp
+fstream
+-
+iostream
+-
+string
+-
+cstdlib
+-
+iomanip
+-
+map
+-
+vector
+-
+sstream
+-
+Color.h
+/Users/shruthikrishnapuram/CLionProjects/untitled14/Color.h
+
